@@ -2,7 +2,7 @@ Este projeto analisa os resultados do Exame Nacional do Ensino Médio (ENEM) de 
 
 Os dados foram obtidos no site oficial do INEP: Microdados ENEM.
 
-Detalhamento Técnico
+**Detalhamento Técnico**
 
 Limpar e transformar os dados para garantir a qualidade da análise.
 
@@ -10,7 +10,7 @@ Realizar uma análise exploratória para identificar padrões e relações nos d
 
 Fornecer uma base organizada para visualizações e análises estatísticas mais aprofundadas.
 
-Principais Etapas do Projeto
+**Principais Etapas do Projeto**
 
 1. Extração e Limpeza de Dados
 
@@ -34,7 +34,7 @@ A classificação de raça foi substituída por valores descritivos (ex.: "1" pa
 
 Informações como tipo de escola e acesso à internet também foram ajustadas para valores textuais.
 
-Filtragem:
+**Filtragem:**
 
 Exclusão de registros com idades menores que 12 anos devido à alta probabilidade de erros.
 
@@ -55,7 +55,7 @@ Notas:
 Notas foram avaliadas para identificar padrões de desempenho.
 Casos de nota zero na redação foram destacados.
 
-* Resultados Destacados
+**Resultados Destacados**
 
 Presença nas provas:
 
